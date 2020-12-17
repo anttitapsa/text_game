@@ -3,7 +3,7 @@ C Programming school project for the Basics of C Programming course. This is a r
 
 ## How to use game
 Characters have features name, hitpoints, experiencepoints, weapon and max damage it can cause.
-There are six kinds of commands you can use while running the program by writing those in terminal.
+There are six kinds of commands you can use while running the program by writing those on terminal.
 
 `A name HP name of weapon damage` 
 
@@ -27,4 +27,4 @@ Command loads all the characters from the file and replaces the characters of th
 
 `Q`
 
-Command shut the game off.
+Command shuts the game off.
