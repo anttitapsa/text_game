@@ -5,10 +5,15 @@ C Programming school project for the Basics of C Programming course. This is a r
 Characters have features name, hitpoints, experiencepoints, weapon and max damage it can cause.
 There are six kinds of commands you can use while running the program by writing those in terminal.
 
-`A name HP name of weapon damage/` 
+`A name HP name of weapon damage` 
 Add new character with a weapon. E.g. A Bilbo 25 Dagger 8 
-`H attacker target/`
-`L/`
-`W file/`
-`O file/`
-`Q/`
+
+`H attacker target`
+
+`L`
+
+`W file`
+
+`O file`
+
+`Q`
