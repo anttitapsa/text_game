@@ -5,4 +5,4 @@ C Programming school project for the Basics of C Programming course. This is a r
 Characters have features name, hitpoints, experiencepoints, weapon and max damage it can cause.
 There are six kinds of commands you can use while running the program by writing those in terminal.
 
-###A
+'A name HP name of weapon damage'
